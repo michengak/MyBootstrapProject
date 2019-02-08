@@ -77,7 +77,11 @@
     <Content Include="bootstrap\js\bootstrap.bundle.min.js" />
     <Content Include="bootstrap\js\bootstrap.js" />
     <Content Include="bootstrap\js\bootstrap.min.js" />
+    <Content Include="images\E13-E.jpg" />
+    <Content Include="images\E2-E.jpg" />
     <Content Include="images\logoweb.jpg" />
+    <Content Include="images\P13.jpg" />
+    <Content Include="images\P4.jpg" />
     <Content Include="index.html" />
     <Content Include="Style.css" />
     <Content Include="Web.config" />
